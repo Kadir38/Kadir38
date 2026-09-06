@@ -8,7 +8,7 @@ I am a recent Master's graduate with high honors from the Faculty of Engineering
 - 🎓 Graduated with a **Master of Science in Civil Engineering** from UMONS.
 - 💼 Recently worked as a **Digital Transformation Engineer** at Aperam and completed an AI Internship in **3D Medical Image Segmentation** at CETIC.
 - 🧠 Deeply interested in **Computer Vision, Generative AI, and Deep Learning**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kadir-t-in-048473182/) | kadir.tas@outlook.be
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kadir-t-048473182/) | kadir.tas@outlook.be
 
 ## 🛠️ Tech Stack & Tools
 
